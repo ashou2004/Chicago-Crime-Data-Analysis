@@ -1,4 +1,7 @@
 # Chicago Crime Data Analysis
 
-Grace Shao, Grace Chang, Alyssa Shou, and Paisley Lucier's Final Project for Northwestern University's STAT 303-1 Class. <br>
-Crime data from 2022 was pulled directly from the City of Chicago's open data portal.
+Grace Shao, Grace Chang, Alyssa Shou, and Paisley Lucier's Final Project for Northwestern University's STAT 303-1 Class. <br> <br>
+This report analyzes Chicago crime data from the year 2022. Firstly, the variation of crime characteristics by hour—crime type, location, and violence level—are explored to address people’s concerns and stereotypes regarding peak crime hours. The findings yield recommendations for stakeholders—anyone in Chicago—to remain vigilant throughout the day, as public crime rates during daylight hours exhibit great similarity to those during nighttime. Next, theft is examined across the government-delineated community areas of Chicago. The region composed of The Loop, Near North Side, Near West Side, and West Town exhibits the highest levels of theft, thus stakeholders are urged to pay particular attention to their belongings in these areas. Broadening our perspective, community area crime distributions in general are further analyzed with respect to CTA stations. CTA riders are recommended to be especially cautious at the Roosevelt, Jackson, and 95th/Dan Ryan stations, which are discovered to be the most dangerous, featuring high rates of theft and physical crimes. Finally, the proportion of crimes warranting arrests were assessed based on police districts, and the police are encouraged to allocate more resources to several districts exhibiting a large disparity in the proportion of crimes arrested for that particular crime type.
+<br> <br>
+Crime data from 2022 was pulled directly from the City of Chicago's open data portal. <br>
+Analysis programmed in Python, rendered to HTML through Quarto
